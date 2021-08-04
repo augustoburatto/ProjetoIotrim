@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:iotrim/pages/loginPage.dart';
-
 void main () => runApp(App());
 
 class App extends StatelessWidget {

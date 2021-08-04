@@ -12,7 +12,9 @@
 
 ## Back-end
 ```
-Feito para ser um intermediário entre o App Android e o device IOT, recebe requisições do device IOT e do aplicativo, possui todas regras de negócio, é feito em Python com com protocolo REST (API)
+Feito para ser um intermediário entre o App Android e o device IOT,
+recebe requisições do device IOT e do aplicativo, possui todas regras de negócio,
+é feito em Python com com protocolo REST (API)
 ```
 
 ## Softwares
